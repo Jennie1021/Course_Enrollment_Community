@@ -4,4 +4,4 @@
 
 ![12_img](./img/12_modul_color.png)
 
-![34_img](./img/34_modeul_color.png)
+![34_img](./img/34_modul_color.png)
